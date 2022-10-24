@@ -31,10 +31,10 @@ mind
 - Module returns the result of the system call
 - Core kernel forwards results to the user
 
-![Executing system call 1](https://via.placeholder.com/350)
-![Executing system call 2](https://via.placeholder.com/350)
-![Executing system call 3](https://via.placeholder.com/350)
-![Executing system call 4](https://via.placeholder.com/350)
+![Executing system call 1](https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)
+![Executing system call 2](https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)
+![Executing system call 3](https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)
+![Executing system call 4](https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)
 
 ## What if the module is not loaded?
 
@@ -44,8 +44,8 @@ mind
 - (...)
 - Where does the call go?
 
-![Module not loaded 1](https://via.placeholder.com/350)
-![Module not laoded 2](https://via.placeholder.com/350)
+![Module not loaded 1](https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)
+![Module not laoded 2](https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)
 
 ## System Call Wrappers
 
